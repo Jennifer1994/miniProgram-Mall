@@ -1,0 +1,4 @@
+<!--pages/home/childCpns/wy-weekPop/wy-weekPop.wxml-->
+<view class="week-pop"> 
+	<image src="/assets/images/home/week-pop.jpg" mode="widthFix"/>
+</view>

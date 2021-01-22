@@ -1,0 +1,4 @@
+/* pages/home/childCpns/wy-weekPop/wy-weekPop.wxss */
+.week-pop image{
+  width: 100%;
+}

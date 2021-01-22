@@ -3,7 +3,8 @@
     "usingComponents": {
       "mp-dialog": "weui-miniprogram/dialog/dialog",
       "wy-swiper":"../../components/wy-swiper/wy-swiper",
-      "wy-recommend":"./childCpns/wy-recommend/wy-recommend"
+      "wy-recommend":"./childCpns/wy-recommend/wy-recommend",
+      "wy-weekPop":"./childCpns/wy-weekPop/wy-weekPop"
     }
   
   
