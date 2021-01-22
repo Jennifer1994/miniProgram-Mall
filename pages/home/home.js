@@ -4,7 +4,8 @@ import {
 Page({
   data: {
     banners: [],
-    recommends: []
+    recommends: [],
+    titles: ['流行','新款','精选']
   },
   onLoad: function () {
     //获取数据

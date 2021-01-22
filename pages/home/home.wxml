@@ -4,3 +4,5 @@
 <wy-recommend list="{{recommends}}" />
 <!-- 本周流行 -->
 <wy-weekPop />
+<!-- tab-control -->
+<wy-tab-control titles="{{titles}}" />

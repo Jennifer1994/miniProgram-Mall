@@ -1,8 +1,8 @@
 {
    "navigationBarTitleText":"爱购物",
     "usingComponents": {
-      "mp-dialog": "weui-miniprogram/dialog/dialog",
-      "wy-swiper":"../../components/wy-swiper/wy-swiper",
+      "wy-swiper":"/components/wy-swiper/wy-swiper",
+      "wy-tab-control":"/components/wy-tab-control/wy-tab-control",
       "wy-recommend":"./childCpns/wy-recommend/wy-recommend",
       "wy-weekPop":"./childCpns/wy-weekPop/wy-weekPop"
     }
