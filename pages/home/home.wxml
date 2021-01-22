@@ -1,0 +1,4 @@
+<!-- 轮播图 -->
+<wy-swiper list="{{banners}}"></wy-swiper>
+<!-- 推荐数据 -->
+<wy-recommend list="{{recommends}}" />
